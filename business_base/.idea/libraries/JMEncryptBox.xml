@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JMEncryptBox">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../business_bp/libs/JMEncryptBox.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

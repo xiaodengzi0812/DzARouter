@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../bp_android.iml" filepath="$PROJECT_DIR$/../bp_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business_base.iml" filepath="$PROJECT_DIR$/business_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../business_bp/business_bp.iml" filepath="$PROJECT_DIR$/../business_bp/business_bp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../business_core/business_core.iml" filepath="$PROJECT_DIR$/../business_core/business_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../business_test/business_test.iml" filepath="$PROJECT_DIR$/../business_test/business_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../datepicker/datepicker.iml" filepath="$PROJECT_DIR$/../datepicker/datepicker.iml" />
+    </modules>
+  </component>
+</project>

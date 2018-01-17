@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="crashsdk-1.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../business_bp/build/intermediates/exploded-aar/com.wanda.bp/crashsdk/1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../business_bp/build/intermediates/exploded-aar/com.wanda.bp/crashsdk/1.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wanda.bp/crashsdk/1.0.0/f4109e1162ab30e6c0b508ba663b2311b1653ff0/crashsdk-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

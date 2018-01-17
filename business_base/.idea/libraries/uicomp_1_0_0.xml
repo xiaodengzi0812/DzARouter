@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="uicomp-1.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../business_bp/build/intermediates/exploded-aar/com.wanda.bp/uicomp/1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../business_bp/build/intermediates/exploded-aar/com.wanda.bp/uicomp/1.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wanda.bp/uicomp/1.0.0/6efc18e57843703025957344a6321254fd085cbe/uicomp-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

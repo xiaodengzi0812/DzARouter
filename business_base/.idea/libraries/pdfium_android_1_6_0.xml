@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="pdfium-android-1.6.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../business_bp/build/intermediates/exploded-aar/com.github.barteksc/pdfium-android/1.6.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../business_bp/build/intermediates/exploded-aar/com.github.barteksc/pdfium-android/1.6.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.barteksc/pdfium-android/1.6.0/bd75871adadb157dc389962e3da4da108d3332b0/pdfium-android-1.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

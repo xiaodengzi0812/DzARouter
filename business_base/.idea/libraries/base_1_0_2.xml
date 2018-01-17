@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="base-1.0.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../business_bp/build/intermediates/exploded-aar/com.wanda.bp/base/1.0.2/jars/libs/pinyin4android1.0.jar!/" />
+      <root url="file://$PROJECT_DIR$/../business_bp/build/intermediates/exploded-aar/com.wanda.bp/base/1.0.2/res" />
+      <root url="jar://$PROJECT_DIR$/../business_bp/build/intermediates/exploded-aar/com.wanda.bp/base/1.0.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wanda.bp/base/1.0.2/c036db759341c6d52952376dc750dbc6c491a204/base-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

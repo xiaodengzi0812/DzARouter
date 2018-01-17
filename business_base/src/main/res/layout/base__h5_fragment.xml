@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.business.base.ui.view.H5WebView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/base__h5_fragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+</com.business.base.ui.view.H5WebView>

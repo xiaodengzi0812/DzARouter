@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="gson-1.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../business_bp/build/intermediates/exploded-aar/com.wanda.bp/gson/1.0.0/jars/libs/gson-2.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../business_bp/build/intermediates/exploded-aar/com.wanda.bp/gson/1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../business_bp/build/intermediates/exploded-aar/com.wanda.bp/gson/1.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wanda.bp/gson/1.0.0/971f8a028ccb67c9f25c86bb750fda20f28607cc/gson-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

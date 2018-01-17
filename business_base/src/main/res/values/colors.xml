@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_bg">#DDDDDD</color>
+    <color name="color_text">#FFFFFF</color>
+    <color name="color_line">#CCCCCC</color>
+    <color name="topbar_bg">#3F51B5</color>
+
+    <color name="item_line_color">#CCCCCC</color>
+    <color name="inner_color">#3F51B5</color>
+    <color name="item_text_color">#333333</color>
+    <color name="color_3d99e9">#3d99e9</color>
+</resources>

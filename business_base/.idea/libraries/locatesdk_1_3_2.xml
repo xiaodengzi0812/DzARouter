@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="locatesdk-1.3.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../business_bp/build/intermediates/exploded-aar/com.feifan.indoorlocation/locatesdk/1.3.2/jars/libs/BRTLocationEngine-FF-beta7_5.jar!/" />
+      <root url="file://$PROJECT_DIR$/../business_bp/build/intermediates/exploded-aar/com.feifan.indoorlocation/locatesdk/1.3.2/res" />
+      <root url="jar://$PROJECT_DIR$/../business_bp/build/intermediates/exploded-aar/com.feifan.indoorlocation/locatesdk/1.3.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

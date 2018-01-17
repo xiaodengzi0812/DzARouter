@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="udid-1.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../business_bp/build/intermediates/exploded-aar/com.wanda.bp/udid/1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../business_bp/build/intermediates/exploded-aar/com.wanda.bp/udid/1.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wanda.bp/udid/1.0.0/26449e336a158fc137cb7d36181e2c6fa66a879c/udid-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

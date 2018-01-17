@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="refreshable-1.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../business_bp/build/intermediates/exploded-aar/com.wanda.bp/refreshable/1.0.0/jars/libs/nineoldandroids-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../business_bp/build/intermediates/exploded-aar/com.wanda.bp/refreshable/1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../business_bp/build/intermediates/exploded-aar/com.wanda.bp/refreshable/1.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wanda.bp/refreshable/1.0.0/4e80367e253f40e51576643a40aa0c6f8179d9ba/refreshable-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

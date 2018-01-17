@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="sliding-1.0.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../business_bp/build/intermediates/exploded-aar/com.wanda.bp/sliding/1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../business_bp/build/intermediates/exploded-aar/com.wanda.bp/sliding/1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wanda.bp/sliding/1.0.0/7d31f074faa08a5597daddf5c8e23408e042faa/sliding-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
