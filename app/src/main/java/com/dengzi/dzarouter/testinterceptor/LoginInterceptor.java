@@ -50,7 +50,7 @@ public class LoginInterceptor implements IInterceptor {
                     @Override
                     public void run() {
                         ARouter.getInstance()
-                                .build("/test/login")
+                                .build("/libA/login")
                                 .navigation();
                     }
                 });
