@@ -10,7 +10,7 @@ import com.dengzi.dzarouter.R;
 import com.alibaba.android.arouter.facade.annotation.Autowired;
 import com.alibaba.android.arouter.facade.annotation.Route;
 
-@Route(path = "/test/activity2")
+@Route(path = "/test/activity2", extras = 1)
 public class Test2Activity extends AppCompatActivity {
 
     @Autowired

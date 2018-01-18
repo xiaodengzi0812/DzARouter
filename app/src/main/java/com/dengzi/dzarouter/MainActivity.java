@@ -14,11 +14,17 @@ import android.widget.Toast;
 
 import com.dengzi.dzarouter.testinject.TestObj;
 import com.dengzi.dzarouter.testinject.TestParcelable;
+import com.dengzi.dzarouter.testinterceptor.LoginInterceptor;
 import com.dengzi.dzarouter.testservice.HelloService;
 import com.dengzi.dzarouter.testservice.SingleService;
 import com.alibaba.android.arouter.facade.Postcard;
 import com.alibaba.android.arouter.facade.callback.NavCallback;
 import com.alibaba.android.arouter.launcher.ARouter;
+import com.dengzi.dzarouter.util.ExtraUtil;
+
+import org.greenrobot.eventbus.EventBus;
+import org.greenrobot.eventbus.Subscribe;
+import org.greenrobot.eventbus.ThreadMode;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -33,7 +39,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
         activity = this;
     }
 

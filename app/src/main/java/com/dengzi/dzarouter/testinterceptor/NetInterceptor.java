@@ -9,6 +9,9 @@ import com.alibaba.android.arouter.facade.callback.InterceptorCallback;
 import com.alibaba.android.arouter.facade.template.IInterceptor;
 import com.dengzi.dzarouter.util.CheckNetUtil;
 
+/**
+ * 判断网络拦截器
+ */
 @Interceptor(priority = 1)
 public class NetInterceptor implements IInterceptor {
     Context mContext;
