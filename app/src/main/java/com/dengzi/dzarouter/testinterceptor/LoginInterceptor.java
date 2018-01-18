@@ -39,7 +39,7 @@ public class LoginInterceptor implements IInterceptor {
 
     @Override
     public void process(final Postcard postcard, final InterceptorCallback callback) {
-        Log.e("testService", "登录拦截器");
+        Log.e("dengzi", "登录拦截器");
         int extra = postcard.getExtra();
         if (extra != Integer.MIN_VALUE) {
             int type = ExtraUtil.getExtra(extra, 0);
