@@ -7,6 +7,7 @@
         android:supportsRtl="true">
 
         <activity android:name=".OneActivity" />
+        <activity android:name=".LoginActivity"></activity>
     </application>
 
 </manifest>
